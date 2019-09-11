@@ -1,7 +1,5 @@
 /**
- * This program satisfies Part 3 
- * of Assignment 1.
- *
+ *Part 3 of Assignment 1.
  * @author Darin Johnson
  * @date September 11th, 2019
  */
